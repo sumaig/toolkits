@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+### sumai template
+.idea
+out
+gen
+*.exe
+*.test
+*.prof
+*.swp
+*.swo
+*.log
+.DS_Store
